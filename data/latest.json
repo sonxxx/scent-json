@@ -1,0 +1,92 @@
+[
+  [
+    {
+      "id": 100,
+      "name": "Byredo Gypsy Water Perfume",
+      "price": 215000,
+      "category": "Perfume",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/perfume/perfume1.jpg"
+    },
+    {
+      "id": 101,
+      "name": "Christian Dior Eden Roc Perfume",
+      "price": 48000,
+      "category": "Perfume",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/perfume/perfume2.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Lollia Rose & Hibiscus Perfume",
+      "price": 37000,
+      "category": "Perfume",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/perfume/perfume3.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Diptyque Philosykos Perfume",
+      "price": 120000,
+      "category": "Perfume",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/perfume/perfume4.jpg"
+    }
+  ],
+  [
+    {
+      "id": 200,
+      "name": "Balandra Soap",
+      "price": 17000,
+      "category": "Soap",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/soap/soap1.jpg"
+    },
+    {
+      "id": 201,
+      "name": "Agua Verde Soap",
+      "price": 18000,
+      "category": "Soap",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/soap/soap2.jpg"
+    },
+    {
+      "id": 202,
+      "name": "Calendula Tea Bar Soap",
+      "price": 23000,
+      "category": "Soap",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/soap/soap3.jpg"
+    },
+    {
+      "id": 203,
+      "name": "Natural Bar Soap",
+      "price": 14000,
+      "category": "Soap",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/soap/soap4.jpg"
+    }
+  ],
+  [
+    {
+      "id": 300,
+      "name": "Upcycle your Gin Bottle Diffuser",
+      "price": 45000,
+      "category": "Diffuser",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser1.jpg"
+    },
+    {
+      "id": 301,
+      "name": "The White Company's electronic Diffuser",
+      "price": 30000,
+      "category": "Diffuser",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser2.jpg"
+    },
+    {
+      "id": 302,
+      "name": "Grace Cole Diffuser",
+      "price": 47000,
+      "category": "Diffuser",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser3.jpg"
+    },
+    {
+      "id": 303,
+      "name": "Dawn Reed Diffuser",
+      "price": 27000,
+      "category": "Diffuser",
+      "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser4.jpg"
+    }
+  ]
+]

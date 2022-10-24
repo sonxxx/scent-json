@@ -1,0 +1,30 @@
+[
+  {
+    "id": 4,
+    "name": "Midsummer Floral Bridal Soap",
+    "price": 17000,
+    "category": "Soap",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/soap/soap19.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Elderberry flowers Soap",
+    "price": 33000,
+    "category": "Soap",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/soap/soap44.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Orange & Clove Diffuser",
+    "price": 80000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser13.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jimmy Choo Urban Hero Perfume",
+    "price": 65800,
+    "category": "Perfume",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/perfume/perfume20.jpg"
+  }
+]

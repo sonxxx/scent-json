@@ -1,0 +1,170 @@
+[
+  {
+    "id": 300,
+    "name": "Upcycle your Gin Bottle Diffuser",
+    "price": 45000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser1.jpg"
+  },
+  {
+    "id": 301,
+    "name": "The White Company's electronic Diffuser",
+    "price": 30000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser2.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Grace Cole Diffuser",
+    "price": 47000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser3.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Dawn Reed Diffuser",
+    "price": 27000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser4.jpg"
+  },
+  {
+    "id": 304,
+    "name": "Meraki Fragrance Oil Diffuser",
+    "price": 51000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser5.jpg"
+  },
+  {
+    "id": 305,
+    "name": "Perfum Maison Reed Diffuser",
+    "price": 43000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser6.jpg"
+  },
+  {
+    "id": 306,
+    "name": "Floral Reed Cardamom Amber Diffuser",
+    "price": 67000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser7.jpg"
+  },
+  {
+    "id": 307,
+    "name": "Eym Soul The Joyful One Diffuser",
+    "price": 30000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser8.jpg"
+  },
+  {
+    "id": 308,
+    "name": "Rose, Geranium Happy Space Reed Diffuser",
+    "price": 25000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser9.jpg"
+  },
+  {
+    "id": 309,
+    "name": "Peony & Blush Suede Diffuser",
+    "price": 50000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser10.jpg"
+  },
+  {
+    "id": 310,
+    "name": "African Storm Diffuser",
+    "price": 76000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser11.jpg"
+  },
+  {
+    "id": 311,
+    "name": "Black pepper & Bay Diffuser",
+    "price": 42000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser12.jpg"
+  },
+  {
+    "id": 312,
+    "name": "Orange & Clove Diffuser",
+    "price": 80000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser13.jpg"
+  },
+  {
+    "id": 313,
+    "name": "Royal Reed Diffuser",
+    "price": 28000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser14.jpg"
+  },
+  {
+    "id": 314,
+    "name": "Mood Boost Reed Diffuser",
+    "price": 48000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser15.jpg"
+  },
+  {
+    "id": 315,
+    "name": "Aromas Vanilla Diffuser",
+    "price": 34000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser16.jpg"
+  },
+  {
+    "id": 316,
+    "name": "White Tea Reed Diffuser",
+    "price": 71000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser17.jpg"
+  },
+  {
+    "id": 317,
+    "name": "Eucalyptus Noir Reed Diffuser",
+    "price": 45000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser18.jpg"
+  },
+  {
+    "id": 318,
+    "name": "Hive & Wick Ceramic Reed Diffuser",
+    "price": 65000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser19.jpg"
+  },
+  {
+    "id": 319,
+    "name": "Vanilla & Cocoa Bean Diffuser",
+    "price": 22000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser20.jpg"
+  },
+  {
+    "id": 320,
+    "name": "Apricot Blossom Diffuser",
+    "price": 26500,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser21.jpg"
+  },
+  {
+    "id": 321,
+    "name": "Oud Rose Luxury Diffuser",
+    "price": 38000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser22.jpg"
+  },
+  {
+    "id": 322,
+    "name": "Pottery Barn Ceramic Reed Diffuser",
+    "price": 43000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser23.jpg"
+  },
+  {
+    "id": 323,
+    "name": "Spring Aesthetic Reed Diffuser",
+    "price": 33000,
+    "category": "Diffuser",
+    "image": "https://raw.githubusercontent.com/sonxxx/scent-json/master/image/diffuser/diffuser24.jpg"
+  }
+]
